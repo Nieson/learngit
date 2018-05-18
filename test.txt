@@ -1,0 +1,2 @@
+I'm Nieson, I'm learning Git.
+Git is so smart distributed system.
